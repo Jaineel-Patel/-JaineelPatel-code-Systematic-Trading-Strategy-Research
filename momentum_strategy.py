@@ -71,7 +71,7 @@ plt.plot(cumulative_pnl_vb, label = "Volatility Breakout")
 plt.plot(cumulative_pnl_bh, label="Buy & Hold")
 plt.legend()
 plt.title("Strategy vs Buy & Hold (2015-2019)")
-plt.show()
+
 
 
 pct_change = ((test_data - test_data.shift(20)) / test_data.shift(20)) * 100 # calculate pct change from day 1 to day 20
