@@ -23,13 +23,10 @@ The current version implements a simple momentum strategy across a basket of U.S
 - Portfolio backtesting
 - Benchmark comparison
 - Equity curve visualisation
-
-## Future Improvements
-
 - Sharpe Ratio and risk metrics
 - Maximum drawdown analysis
 - Transaction cost modelling
 - Alternative alpha factors
 - Cross-sectional momentum
 - Out-of-sample testing
-- Portfolio optimisation
+
